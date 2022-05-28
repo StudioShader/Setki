@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  28 MAY 2022 23:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  28 MAY 2022 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -834,60 +834,84 @@ LaTeX Font Info:    Trying to load font information for T2A+cmss on input line
 (C:\Users\пк\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-<pictures//Screenshot_1.png, id=1, 1155.71774pt x 649.82774pt>
+<pictures//Screenshot_1.png, id=1, 1155.71774pt x 617.9085pt>
 File: pictures//Screenshot_1.png Graphic file (type png)
 <use pictures//Screenshot_1.png>
-Package pdftex.def Info: pictures//Screenshot_1.png  used on input line 73.
-(pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
+Package pdftex.def Info: pictures//Screenshot_1.png  used on input line 75.
+(pdftex.def)             Requested size: 462.27892pt x 247.15901pt.
 <pictures//Screenshot_2.png, id=3, 1155.71774pt x 649.82774pt>
 File: pictures//Screenshot_2.png Graphic file (type png)
 <use pictures//Screenshot_2.png>
 Package pdftex.def Info: pictures//Screenshot_2.png  used on input line 78.
 (pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
+<pictures//Screenshot_3.png, id=4, 576.9555pt x 619.71526pt>
+File: pictures//Screenshot_3.png Graphic file (type png)
+<use pictures//Screenshot_3.png>
+Package pdftex.def Info: pictures//Screenshot_3.png  used on input line 81.
+(pdftex.def)             Requested size: 230.7781pt x 247.8817pt.
+
+Overfull \hbox (70.97368pt too wide) in paragraph at lines 74--82
+[] \T2A/cmr/m/n/10.95 1. (60:f6:77:54:60:eb) 
+ []
+
+
+Overfull \hbox (69.16025pt too wide) in paragraph at lines 74--82
+[] \T2A/cmr/m/n/10.95 3. (0c:80:63:c6:8f:0c)
+ []
 
 [1
 
 {C:/Users/пк/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./pictures//S
 creenshot_1.png> <./pictures//Screenshot_2.png>]
-<pictures//Screenshot_3.png, id=15, 1155.71774pt x 649.82774pt>
-File: pictures//Screenshot_3.png Graphic file (type png)
-<use pictures//Screenshot_3.png>
-Package pdftex.def Info: pictures//Screenshot_3.png  used on input line 83.
-(pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
 <pictures//Screenshot_4.png, id=16, 1155.71774pt x 649.82774pt>
 File: pictures//Screenshot_4.png Graphic file (type png)
 <use pictures//Screenshot_4.png>
-Package pdftex.def Info: pictures//Screenshot_4.png  used on input line 86.
+Package pdftex.def Info: pictures//Screenshot_4.png  used on input line 85.
 (pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
- [2 <./pictures//Screenshot_3.png> <./pictures//Screenshot_4.png>]
-<pictures//Screenshot_5.png, id=22, 1155.71774pt x 649.82774pt>
+<pictures//Screenshot_5.png, id=17, 1155.71774pt x 649.82774pt>
 File: pictures//Screenshot_5.png Graphic file (type png)
 <use pictures//Screenshot_5.png>
-Package pdftex.def Info: pictures//Screenshot_5.png  used on input line 92.
+Package pdftex.def Info: pictures//Screenshot_5.png  used on input line 87.
 (pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
- [3 <./pictures//Screenshot_5.png>]
-(hw.aux) ) 
+<pictures//Screenshot_6.png, id=18, 1155.71774pt x 649.82774pt>
+File: pictures//Screenshot_6.png Graphic file (type png)
+<use pictures//Screenshot_6.png>
+Package pdftex.def Info: pictures//Screenshot_6.png  used on input line 89.
+(pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
+
+Overfull \hbox (16.22069pt too wide) in paragraph at lines 83--91
+[] \T2A/cmr/m/n/10.95 2. Sender
+ []
+
+
+Overfull \hbox (15.31403pt too wide) in paragraph at lines 83--91
+[] \T2A/cmr/m/n/10.95 3. Target
+ []
+
+
+Overfull \hbox (1.70224pt too wide) in paragraph at lines 83--91
+[] \T2A/cmr/m/n/10.95 4. ��-
+ []
+
+[2 <./pictures//Screenshot_3.png> <./pictures//Screenshot_4.png>] [3 <./picture
+s//Screenshot_5.png> <./pictures//Screenshot_6.png>] (hw.aux) ) 
 Here is how much of TeX's memory you used:
- 9838 strings out of 478582
- 161130 string characters out of 2844816
- 468615 words of memory out of 3000000
- 27847 multiletter control sequences out of 15000+600000
- 484375 words of font info for 63 fonts, out of 8000000 for 9000
+ 9841 strings out of 478582
+ 161285 string characters out of 2844816
+ 465609 words of memory out of 3000000
+ 27849 multiletter control sequences out of 15000+600000
+ 483127 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,11n,79p,548b,232s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
-\larm1095.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\lass1200.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
-dpi600\lass1440.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\larm1200.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\larm1728.pk><C:/Users/пк/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmmi8.pfb><C:/Users/пк/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/пк/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/пк/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on hw.pdf (3 pages, 851034 bytes).
+ 70i,11n,79p,308b,232s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\пк\
+AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\п
+к\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass1200.pk> <C:\Users
+\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass1440.pk> <C:\Us
+ers\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:
+\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk>
+Output written on hw.pdf (3 pages, 899367 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
+ 161 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
