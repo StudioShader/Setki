@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  28 MAY 2022 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.26)  29 MAY 2022 00:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -850,13 +850,8 @@ File: pictures//Screenshot_3.png Graphic file (type png)
 Package pdftex.def Info: pictures//Screenshot_3.png  used on input line 81.
 (pdftex.def)             Requested size: 230.7781pt x 247.8817pt.
 
-Overfull \hbox (70.97368pt too wide) in paragraph at lines 74--82
-[] \T2A/cmr/m/n/10.95 1. (60:f6:77:54:60:eb) 
- []
+Underfull \hbox (badness 10000) in paragraph at lines 74--82
 
-
-Overfull \hbox (69.16025pt too wide) in paragraph at lines 74--82
-[] \T2A/cmr/m/n/10.95 3. (0c:80:63:c6:8f:0c)
  []
 
 [1
@@ -878,40 +873,36 @@ File: pictures//Screenshot_6.png Graphic file (type png)
 <use pictures//Screenshot_6.png>
 Package pdftex.def Info: pictures//Screenshot_6.png  used on input line 89.
 (pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
+<pictures//Screenshot_7.png, id=19, 1155.71774pt x 649.82774pt>
+File: pictures//Screenshot_7.png Graphic file (type png)
+<use pictures//Screenshot_7.png>
+Package pdftex.def Info: pictures//Screenshot_7.png  used on input line 91.
+(pdftex.def)             Requested size: 462.27892pt x 259.92648pt.
 
-Overfull \hbox (16.22069pt too wide) in paragraph at lines 83--91
-[] \T2A/cmr/m/n/10.95 2. Sender
- []
+Underfull \hbox (badness 10000) in paragraph at lines 83--92
 
-
-Overfull \hbox (15.31403pt too wide) in paragraph at lines 83--91
-[] \T2A/cmr/m/n/10.95 3. Target
- []
-
-
-Overfull \hbox (1.70224pt too wide) in paragraph at lines 83--91
-[] \T2A/cmr/m/n/10.95 4. ��-
  []
 
 [2 <./pictures//Screenshot_3.png> <./pictures//Screenshot_4.png>] [3 <./picture
-s//Screenshot_5.png> <./pictures//Screenshot_6.png>] (hw.aux) ) 
+s//Screenshot_5.png> <./pictures//Screenshot_6.png> <./pictures//Screenshot_7.p
+ng>] (hw.aux) ) 
 Here is how much of TeX's memory you used:
- 9841 strings out of 478582
- 161285 string characters out of 2844816
+ 9849 strings out of 478582
+ 161516 string characters out of 2844816
  465609 words of memory out of 3000000
- 27849 multiletter control sequences out of 15000+600000
+ 27856 multiletter control sequences out of 15000+600000
  483127 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,11n,79p,308b,232s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\пк\
-AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\п
-к\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass1200.pk> <C:\Users
-\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass1440.pk> <C:\Us
-ers\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:
-\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk>
-Output written on hw.pdf (3 pages, 899367 bytes).
+ <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\larm1095.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2
+a/dpi600\lass1200.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\lass1440.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\larm1200.pk> <C:\Users\пк\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\larm1728.pk>
+Output written on hw.pdf (3 pages, 1073695 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
+ 159 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
